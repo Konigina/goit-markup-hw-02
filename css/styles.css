@@ -158,12 +158,12 @@ body {
 }
 .address-text {
 	color: var(--white-color);
-	line-height: 2;
+	line-height: 1.71;
 }
 
 .background {
 	background-color: #2f303a;
-	line-height: 2;
+	line-height: 1.71;
 }
 
 .title {
